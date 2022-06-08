@@ -24,7 +24,7 @@ More HMS code samples:
 
 ### Please join the discord channel
 
-- visit the Discord channel [Junction 21 Hackathon Huawei](https://discord.gg/WFEKnHaSJW) 
+- visit the Discord channel [Swedish Hackathon Event](https://discord.gg/WFEKnHaSJW) 
 
 
 **Happy hacking!**
