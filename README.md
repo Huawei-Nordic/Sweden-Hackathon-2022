@@ -9,11 +9,11 @@ You have a bunch of fresh ideas and you aspire to make them possible with the he
 
 ### Starter projects for all platforms
 
-- for Native Android:
+- for Native Android: https://github.com/Huawei-Nordic/Sweden-Hackathon-2022-native
 
 - for React Native: 
 
-- for Unity: 
+- for Unity: https://github.com/EvilMindDevs/Huawei-Video-Content-Maze-Game
 
 
 More HMS code samples:
