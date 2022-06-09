@@ -15,6 +15,8 @@ You have a bunch of fresh ideas and you aspire to make them possible with the he
 
 - for Unity: https://github.com/EvilMindDevs/Huawei-Video-Content-Maze-Game
 
+- for lite wearable development: https://github.com/buiquanghuy23103/sweden-hackathon-2022-lite-wearable
+
 
 More HMS code samples:
 
