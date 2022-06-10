@@ -11,7 +11,7 @@ You have a bunch of fresh ideas and you aspire to make them possible with the he
 
 - for Native Android: https://github.com/Huawei-Nordic/Sweden-Hackathon-2022-native
 
-- for React Native: 
+- for React Native: https://github.com/Huawei-Nordic/Sweden-Hackathon-2022-ReactNative
 
 - for Unity: https://github.com/EvilMindDevs/Huawei-Video-Content-Maze-Game
 
